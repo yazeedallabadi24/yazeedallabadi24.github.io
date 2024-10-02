@@ -37,7 +37,7 @@ Here you can find more about my professional journey, including my time as a **C
 
 I'll also share my personal projects, lessons learned from **TryHackMe** and **HackTheBox**, and blog posts about **workshops** and **volunteering** at the **Linux Society** and **HackerSpace\_JU**.
 
-## 🚀 Get in Touch
+# 🚀 Get in Touch
 
 If you're interested in connecting, feel free to reach out via email at [**allabadiyazeed67@gmail.com**](mailto:allabadiyazeed67@gmail.com) or through [**LinkedIn**](https://www.linkedin.com/in/yazeedallabadi).
 
