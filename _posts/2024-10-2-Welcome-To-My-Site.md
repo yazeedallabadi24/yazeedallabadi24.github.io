@@ -46,4 +46,4 @@ Thank you for visiting my portfolio, and I hope you find inspiration and knowled
 
 
 
-> ** For more information about me, visit the** [**about me page**](/about/)
+> **For more information about me, visit the** [**about me page**](/about/)
