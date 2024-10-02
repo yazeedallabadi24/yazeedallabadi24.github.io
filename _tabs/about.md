@@ -20,7 +20,7 @@ order: 4
   * [**`eJPTv2`**](https://certs.ine.com/d35b58e4-566f-495c-ba16-b202139ccfdc) (E-learn Junior Penetration Tester) - _Learned Red Teaming and Penetration Testing through Hands-On training lab material and exam assessment which covered the full stages of a successful penetration testing engagement._
   * [**`ICCA`**](https://certs.ine.com/da7609ba-a883-4a2d-a4b7-11efea176826) (INE Certified Cloud Associate) _- Training Material involved Cloud Foundations and basics in addition to hands-on labs on cloud environments._
   * [**`ISC2 CC`**](https://www.credly.com/badges/a75656c5-9c50-482d-8fd5-e5adb1b86ea8/public\_url) (Certified in Cybersecurity) - _Training and exam process covered Risk Management , Risk Assessment in addition to Security Operations and best practices with respect to following global standards and regulations._
-* I’m currently trying to pass the [**`HTB`****`CDSA`**](https://academy.hackthebox.com/path/preview/soc-analyst) (Certified Defensive Security Analyst) certification from **HackTheBox** which by far is the toughest and the biggest in terms of course material and is also one of the hardest assessments for aspiring SOC Analysts and Incident handlers.
+* I’m currently trying to pass the [**`HTB`****`CDSA`**](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst) (Certified Defensive Security Analyst) certification from **HackTheBox** which by far is the toughest and the biggest in terms of course material and is also one of the hardest assessments for aspiring SOC Analysts and Incident handlers.
   * I'll be posting a review of my `CDSA` exam and certification experience here soon so stay tuned !
 
 ## 📋 Experience

@@ -25,7 +25,7 @@ For the past few years, I've been actively engaging in cybersecurity through **h
 - [**INE Certified Cloud Associate (ICCA)**](https://certs.ine.com/da7609ba-a883-4a2d-a4b7-11efea176826)
 - [**ISC2 Certified in Cybersecurity (CC)**](https://www.credly.com/badges/a75656c5-9c50-482d-8fd5-e5adb1b86ea8/public_url)
 
-Currently, I'm preparing for the [**HTB Certified Defensive Security Analyst (CDSA)**](https://academy.hackthebox.com/path/preview/soc-analyst) certification and will soon share my exam review and study strategies.
+Currently, I'm preparing for the [**HTB Certified Defensive Security Analyst (CDSA)**](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst) certification and will soon share my exam review and study strategies.
 
 ## 📰 Cybersecurity News & Insights
 
