@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 title: "Welcome to My Portfolio"
 date: 2024-10-02
 author: Yazeed
 categories: [Portfolio, Cybersecurity]
 tags: [cybersecurity, certifications, news, portfolio]
 icon: fas fa-laptop-code
+pin: true
 order: 1
 ---
 
