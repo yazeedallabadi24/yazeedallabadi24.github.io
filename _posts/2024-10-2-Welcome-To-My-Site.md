@@ -19,7 +19,7 @@ title: "Welcome to My Portfolio"
 
 ## Whoami
 
-**🖐️ Hi! I'm Yazeed Allabadi, a student at the University of Jordan. Majoring in Cyber Security, I’ve been practicing both Red Teaming and Blue teaming daily since the start of my journey as a cybersecurity bachelor candidate and I’m happy with where my feet has landed to so far.**
+**🖐️ Hi! I'm Yazeed Allabadi, a Cybersecurity Graduate from the University of Jordan. Majoring in Cyber Security, I’ve been practicing both Red Teaming and Blue teaming daily since the start of my journey as a cybersecurity bachelor candidate and I’m happy with where my feet has landed to so far.**
 
 ## 💭 About Me
 
