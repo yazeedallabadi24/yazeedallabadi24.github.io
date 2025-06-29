@@ -16,10 +16,10 @@ timezone:
 
 title: Yazeed Allabadi # the main title
 
-tagline: Cyber security undergraduate bachelor candidate # it will display as the subtitle
+tagline: Cyber security specialist # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Cyber security undergraduate bachelor candidate
+  Cyber security specialist
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

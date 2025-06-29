@@ -8,7 +8,7 @@ order: 4
 
 ## Whoami
 
-**🖐️ Hi! I'm Yazeed Allabadi, a student at the University of Jordan. Majoring in Cyber Security, I’ve been practicing both Red Teaming and Blue teaming daily since the start of my journey as a cybersecurity bachelor candidate and I’m happy with where my feet has landed to so far.**
+**🖐️ Hi! I'm Yazeed Allabadi, a Cybersecurity graduate from the University of Jordan. Majoring in Cyber Security, I’ve been practicing both Red Teaming and Blue teaming daily since the start of my journey as a cybersecurity bachelor candidate and I’m happy with where my feet has landed to so far.**
 
 ## 💭 About Me
 
@@ -45,7 +45,7 @@ order: 4
 > * Learned broad range of skills including Computer Networking , Problem Solving , Ethical Hacking, Penetration Testing, Linux Administration , Reverse Engineering, Malware Analysis.
 > * Throughout the various events held at campus I’ve also learned various soft-skills including conducting workshops, and public speaking with people.
 
-> **Cambridge IGCSE & A-Levels (High School)**
+> **Cambridge IGCSE & A-Levels (High School) - Manarat Al-Riyadh**
 >
 > _Jan 2019 - June 2021_
 
